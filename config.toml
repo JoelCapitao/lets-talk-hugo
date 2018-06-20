@@ -14,6 +14,6 @@ themesDir = "../.."
   github = ""
   linkedin = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
+  background_color_class = "bg-blue"
   featured_image = "/img/paris_est_magique.jpg"
   recent_posts_number = 2
