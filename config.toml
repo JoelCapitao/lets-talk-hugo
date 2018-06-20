@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+baseurl = 'http://replace.com/'
+languageCode = 'en'
+title = 'My New Hugo Site'
+theme = 'ananke'
