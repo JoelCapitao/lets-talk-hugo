@@ -1,7 +1,8 @@
 baseurl = 'http://replace.com/'
 languageCode = 'en'
 title = 'My New Hugo Site'
-theme = 'ananke'
+theme = "gohugo-theme-ananke"
+themesDir = "../.."
 
 [params]
   favicon = ""
